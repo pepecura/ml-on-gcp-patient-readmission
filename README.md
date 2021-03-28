@@ -14,4 +14,6 @@ The public data used in the exercise will be downloaded from the [Kaggle website
 
 Follow [this notebook](Predict-hospital-readmission-with-BQML-and-AutoML.ipynb) to build your healthcare ML application on GCP using BigQuery and Python libraries for **data preparation and feature engineering** to enrich your data, BigQuery ML and AutoML for **model building and evaluating** the results and Looker for **visualisation**. </br>
 The details for the visualisations in Looker are not covered in this repository. Please check the Looker website and the documentation [here](https://docs.looker.com/). </br>
+#### **Model results:** </br>
+![Business results](screenshots/model-results.png) </br>
 ##### **the end.** 
