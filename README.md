@@ -6,7 +6,6 @@ Predict the likelihood of hospital readmission for diabetes patients. </br>
 Avoid early discharge of patients to home in order to decrease the rate of readmission. </br>
 #### **Download data from:** </br>
 The public data used in the exercise will be downloaded from the [Kaggle website](https://www.kaggle.com/friedrichschneider/diabetic-dataset-for-readmission). This will require you to sign in to Kaggle. Find the descriptions of the variables [here](https://www.kaggle.com/iabhishekofficial/prediction-on-hospital-readmission). </br>
-![Data exploration](screenshots/data-exploration.png) </br>
 #### **Machine learning steps:** </br>
 ![Machine Learning Steps for this project](screenshots/machine-learning-steps.png) </br>
 #### **The technology used:** </br>
