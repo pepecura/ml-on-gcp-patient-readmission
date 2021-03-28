@@ -6,6 +6,7 @@ Predict the likelihood of hospital readmission for diabetes patients. </br>
 Avoid early discharge of patients to home in order to decrease the rate of readmission. </br>
 #### **Download data from:** </br>
 The public data used in the exercise will be downloaded from the [Kaggle website](https://www.kaggle.com/friedrichschneider/diabetic-dataset-for-readmission). This will require you to sign in to Kaggle. Find the descriptions of the variables [here](https://www.kaggle.com/iabhishekofficial/prediction-on-hospital-readmission). </br>
+![Data exploration](screenshots/data-exploration.png) </br>
 #### **Machine learning steps:** </br>
 ![Machine Learning Steps for this project](screenshots/machine-learning-steps.png) </br>
 #### **The technology used:** </br>
@@ -17,5 +18,5 @@ Follow [this notebook](Predict-hospital-readmission-with-BQML-and-AutoML.ipynb) 
 The details for the visualisations in Looker are not covered in this repository. Please check the Looker website and the documentation [here](https://docs.looker.com/). </br>
 #### **Model results:** </br>
 ![Business results](screenshots/model-results.png) </br>
-**Contact** on [instagram](https://www.instagram.com/tubaislam/). (I don't check emails often) </br>
+**Contact** on [instagram](https://www.instagram.com/tubaislam/). </br>
 ##### **the end.** 
