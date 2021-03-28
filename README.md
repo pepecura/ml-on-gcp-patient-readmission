@@ -1,6 +1,6 @@
 ### Healthcare application of Machine Learning on Google Cloud Platform </br>
 ### Predicting patient hospital readmission with BQML and AutoML </br>
-[colab link](https://colab.research.google.com/drive/1Qv8fex_3F8J6nEIETk-K7wHjUN6YTG92?usp=sharing) </br>
+<center>[colab link for the notebook](https://colab.research.google.com/drive/1Qv8fex_3F8J6nEIETk-K7wHjUN6YTG92?usp=sharing) </center></br>
 #### **What is the business problem:** </br>
 Predict the likelihood of hospital readmission for diabetes patients. </br>
 Avoid early discharge of patients to home in order to decrease the rate of readmission. </br>
@@ -17,4 +17,5 @@ Follow [this notebook](Predict-hospital-readmission-with-BQML-and-AutoML.ipynb) 
 The details for the visualisations in Looker are not covered in this repository. Please check the Looker website and the documentation [here](https://docs.looker.com/). </br>
 #### **Model results:** </br>
 ![Business results](screenshots/model-results.png) </br>
+**Contact** on [instagram](https://www.instagram.com/tubaislam/). (I don't check emails often) </br>
 ##### **the end.** 
