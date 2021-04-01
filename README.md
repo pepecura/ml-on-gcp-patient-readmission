@@ -17,5 +17,5 @@ Follow [this notebook](Predict-hospital-readmission-with-BQML-and-AutoML.ipynb) 
 The details for the visualisations in Looker are not covered in this repository. Please check the Looker website and the documentation [here](https://docs.looker.com/). </br>
 #### **Model results:** </br>
 ![Business results](screenshots/model-results.png) </br>
-**Contact** on [instagram](https://www.instagram.com/tubaislam/). </br>
+</br>
 ##### **the end.** 
