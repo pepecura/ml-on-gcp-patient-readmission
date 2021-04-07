@@ -1,6 +1,6 @@
 ## Healthcare application of Machine Learning on Google Cloud Platform </br>
 ### Predicting patient hospital readmission with BQML and AutoML </br>
-[colab link for the notebook](https://colab.research.google.com/drive/1Qv8fex_3F8J6nEIETk-K7wHjUN6YTG92?usp=sharing)</br>
+[colab link for the notebook](https://colab.research.google.com/drive/1p5BoFe49gkxwbqF2tGUCbyF3MS07RFoN?usp=sharing)</br>
 #### **What is the business problem:** </br>
 Predict the likelihood of hospital readmission for diabetes patients. </br>
 Avoid early discharge of patients to home in order to decrease the rate of readmission. </br>
